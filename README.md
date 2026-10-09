@@ -95,7 +95,7 @@ Potential enhancements for the project include:
 
 **Kkusumpreet Kaur**
 
-B.Tech Student | Aspiring Software Developer
+1st Year BTech Student at IGDTUW
 
 - GitHub: [@kkusumk09](https://github.com/kkusumk09)
 - Project Repository: [ProjectYouTube](https://github.com/kkusumk09/ProjectYouTube)
