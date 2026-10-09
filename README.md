@@ -99,7 +99,7 @@ Potential enhancements for the project include:
 
 - GitHub: [@kkusumk09](https://github.com/kkusumk09)
 - Project Repository: [ProjectYouTube](https://github.com/kkusumk09/ProjectYouTube)
-- Project Link: [YouTube]([http://127.0.0.1:5500/ProjectYouTube/Youtube.html])
+- Project Link: [YouTube](http://127.0.0.1:5500/ProjectYouTube/Youtube.html)
 
 ## 📄 License
 
